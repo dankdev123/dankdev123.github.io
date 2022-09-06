@@ -1,2 +1,2 @@
-# dankdev123.github.io
-website for my projects
+# Quantome Kernel
+Welcome to the website of quantome kernel, why is this here? idk 
