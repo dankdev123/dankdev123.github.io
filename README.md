@@ -1,4 +1,7 @@
 # Quantome Kernel
-Welcome to the website of quantome kernel, why is this here? idk 
+Welcome to the Official Website for the Quantome OS Kernel 
 
-Contributors: Therealgolem and Me( i did nothing apart from making the site) 
+Founders/Creators - Mr.Golem and DankDev
+This is the official website which shows all features of the Kernel for are (in construction) OS - Quantome
+
+Updates Coming soon!
